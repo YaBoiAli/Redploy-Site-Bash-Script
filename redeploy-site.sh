@@ -4,7 +4,7 @@
 tmux kill-server
 
 # Navigate to the project directory
-cd /path/to/your/project
+cd C:\Users\alina\Meta-Intern\portfolio-VPS\meta-portfolio\mlh-portfolio
 
 # Update the Git repository
 git fetch && git reset origin/main --hard
