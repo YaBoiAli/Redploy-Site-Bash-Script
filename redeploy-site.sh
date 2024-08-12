@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the project directory
-cd /mlh-portfolio
+cd /root/mlh-portfolio
 
 # Fetch the latest changes from the main branch and reset
 git fetch && git reset origin/main --hard
